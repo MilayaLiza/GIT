@@ -1,13 +1,15 @@
-{
- "Ширявскова Е.А. 05.09.2021",	
-"Название:	Сайт Ozon. Карточка товара. Неверная цена товара",
-"Приоритет	Critical",
-"Описание:",
-"Предусловия: Сайт Ozon открыт. Открыта карточка с часами Умные часы ARRIS "10094", "45"mm, голубой",
-"Шаги.",
-"Проверить стоимость часов в карточке, в каталоге.",                        
-"Ссылка на часы www//hhfhfhdudsss",
-"Текущий результат:",
-"В карточке товара стоит неверная стоимость часов "100"  рубрей.  При добавлении в корзину, цена не меняется.", 
-"Ожидаемый результат:",
-"В карточке товара должна стоять стоимость товара "3400" рублей.", }
+<info>
+<ID:></ID:>
+<Project:></Project:>
+<IssueType:></Issue>
+<Summary:></Summary:>
+<Precondition:></Precondition:>
+<STR:></STR:>
+<ActualResults:></Actual>
+<ExpectedResults:></Expected>
+<Reporter:></Reporter:>
+<Priority:></Priority:>
+<Severity:></Severity:>
+<Environment:></Environment:>
+<Attachment:></Attachment:>
+</info>
