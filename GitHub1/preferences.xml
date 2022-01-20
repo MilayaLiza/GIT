@@ -1,10 +1,8 @@
-<field name="FIO">Liza Shiriavskova А</field>
-	<field name="age">37</field>
-	<field name="pets">3</field
-	<field name="любимый фильм">Москва слезам не верит"</field>
-	<field name="любимый сериал">Во все тяжкие"</field>
-        <field name="любимая еда">мясо"</field>
-        <field name="любимое время года">лето"</field>
-	<field name="страна которую хотели бы посетить">Италия"</field>
 
-
+<info>
+	<favorite_movie>Moskva slezam ne verit</favorite_movie>
+	<favorite_TV_series>Lost</favorite_TV_series>
+	<favorite_food>pizza</favorite_food>
+	<favorite_time_of_the_year>spring</favorite_time_of_the_year> 
+	<the_country_you_would_like_to_visit>USA</the_country_you_would_like_to_visit>
+</info>
