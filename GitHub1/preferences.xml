@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <root>
   <1) Любимый фильм>Любовь и голуби</1) Любимый фильм>
   <2) Любимый сериал>Во все тяжкие</2) Любимый сериал>
@@ -5,3 +6,13 @@
   <4) Любимое время года>Лето</4) Любимое время года>
   <5) Страна которую хотели бы посетить>Италия</5) Страна которую хотели бы посетить>
 </root>
+=======
+
+<info>
+	<favorite_movie>Moskva slezam ne verit</favorite_movie>
+	<favorite_TV_series>Lost</favorite_TV_series>
+	<favorite_food>pizza</favorite_food>
+	<favorite_time_of_the_year>spring</favorite_time_of_the_year> 
+	<the_country_you_would_like_to_visit>USA</the_country_you_would_like_to_visit>
+</info>
+>>>>>>> e630b8442ebdafd5d67aae9f65165f7aff0fca1a

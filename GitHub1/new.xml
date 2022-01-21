@@ -1,6 +1,16 @@
+<<<<<<< HEAD
 <root>
   <FIO>Shiriavskova Elizaveta Anatolievna</FIO>
   <age>37</age>
   <animal>3</animal>
   <salary>50000</salary>
 </root>
+=======
+
+ <info>
+        <FIO>Shiriavskova Elizaveta Anatolievna</FIO>
+        <age>37</age>
+        <animal>3</animal>    
+       <salary>400</salary>	
+</info>
+>>>>>>> e630b8442ebdafd5d67aae9f65165f7aff0fca1a
