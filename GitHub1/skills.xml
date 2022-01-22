@@ -1,12 +1,13 @@
  <info>
-  <Программа курса>...</Программа курса>
-  <1) JSON>...</1) JSON>
-  <2) XML>...</2) XML>
-  <3) Postman, Fidler>...</3) Postman, Fidler>
-  <4) Linux Ubuntu>...</4) Linux Ubuntu>
-  <5) SQL>...</5) SQL>
-  <6) Git>...</6) Git>
-  <7) Jmeter>...</7) Jmeter>
-  <8) Scrum>...</8) Scrum>
-  <9) Python>...</9) Python>
+    
+  <Skills></Skills>
+  <JSON></JSON>
+  <Postman></Postman>
+  <Linux></Linux>
+  <SQL></SQL>
+  <Git></Git>
+  <Jmeter></Jmeter>
+  <Scrum></Scrum>
+  <Python></Python>
+  
 </info>
