@@ -1,4 +1,4 @@
- <root>
+ <info>
   <Программа курса>...</Программа курса>
   <1) JSON>...</1) JSON>
   <2) XML>...</2) XML>
@@ -9,4 +9,4 @@
   <7) Jmeter>...</7) Jmeter>
   <8) Scrum>...</8) Scrum>
   <9) Python>...</9) Python>
-</root>
+</info>
