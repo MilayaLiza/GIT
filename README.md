@@ -1,1 +1,1 @@
-# HomeWork_Group_26
+# GIT
