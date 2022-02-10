@@ -230,4 +230,4 @@ git remote add upstream git@github.com:address.git # добавляем удал
 git fetch upstream # качаем все ветки мастер-репозитория, но пока не сливаем со своими
 git checkout master # переключаемся на ветку master своего репозитория
 git merge upstream/master # вливаем ветку master удалённого репозитория upstream в свою ветку master
-![](https://miro.medium.com/max/1200/1*PqEPOjr7MGG1bYwYYlN5sw.png)
+
